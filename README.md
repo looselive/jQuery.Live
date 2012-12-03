@@ -8,4 +8,4 @@ License
 
 The Live Query plugin is dual licensed (just like jQuery) under the MIT and GPL licenses.
 
-Copyright (c) 2012 LooseLive
+Copyright (c) 2012 <a href="mailto:looselive@gmail.com">LooseLive</a>
