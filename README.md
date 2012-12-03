@@ -6,6 +6,6 @@ Live utilizes the power of jQuery selectors by binding events or firing callback
 License
 ===========
 
-The Live Query plugin is dual licensed (just like jQuery) under the MIT and GPL licenses.
+The jQuery.Live plugin is dual licensed (just like jQuery) under the MIT (MIT_LICENSE.txt) and GPL Version 2 (GPL_LICENSE.txt) licenses.
 
 Copyright (c) 2012 <a href="mailto:looselive@gmail.com">LooseLive</a>
